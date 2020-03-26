@@ -1,0 +1,36 @@
+@charset "UTF-8";
+.my-class {
+    color: pink;
+    background-color: #000000;
+    text-align: center;
+}
+.section-heading {
+    padding: 60px;
+    text-align: center;
+    background: pink;
+    color: white;
+    font-size: 24px;
+    font-family: "Myriad Pro";
+	opacity: 85
+}
+.float {
+    float: left;
+    width: 430px;
+    height: auto;
+    margin: 10px;
+}
+.footer {
+    padding: 20px;
+    background-color: black;
+    font-size: 18px;
+    line-height: 5px;
+    color: pink;
+    border-top-color: #fffff;
+    opacity: 0,5;
+}
+.body {
+    background-color: transparent;
+    background-attachment: fixed;
+    background-image: url(../images/amsterdamm.jpg);
+    background-repeat: repeat-x;
+}
