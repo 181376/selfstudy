@@ -3,6 +3,8 @@
     color: pink;
     background-color: #000000;
     text-align: center;
+	font-family: 'Roboto Condensed', sans-serif;
+
 }
 .section-heading {
     padding: 60px;
@@ -11,7 +13,7 @@
     color: white;
     font-size: 24px;
     font-family: "Myriad Pro";
-	opacity: 85
+	opacity: 0.8
 }
 .float {
     float: left;
@@ -25,8 +27,8 @@
     font-size: 18px;
     line-height: 5px;
     color: pink;
-    border-top-color: #fffff;
-    opacity: 0,5;
+    border-top-color: #FFFFFF;
+    opacity: 0.8;
 }
 .body {
     background-color: transparent;
